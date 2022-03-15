@@ -1,0 +1,11 @@
+{
+  "name": "accordian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Accordian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasir191491",
+  "license": "ISC"
+}
